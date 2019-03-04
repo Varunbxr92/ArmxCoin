@@ -16,4 +16,15 @@ Open chrome and install metamask by clicking the link. Metamask is an ethereum c
 
 Click on the fox icon that will appear on the right hand side top corner of the browser and follow the steps in the infographic to load free ether. Ether is the cyrptocurrency for ethereum platform.
 
+https://imgur.com/VFW4B1D
+
+refer to the above given link in order to install metamask and use it.
+
+The ethereum address is similar to a bank account number
+ex: "0xd5105520Edd8Bc3AFC47cA242B0d983F7F6349d0". Keep the address handy it will be used later.
+
+This is the main account address. At this point the address will have 1 ether. If you don’t get an ether, post your address in the comments section. I will transfer 1 ether to you. Ether is needed for deploying the code into test network.
+
+
+
 
