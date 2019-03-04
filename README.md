@@ -28,7 +28,7 @@ This is the main account address. At this point the address will have 1 ether. I
 STEP 2: Create a custom currency and deploy it to Kocan Test network
 
 The smart contract for creating custom token is written in solidity.
-Open Remix online editor, remove the existing Ballot code, copy and paste the below source code.(If you are not able to copy, click the “view raw” at bottom right corner of the code snippet)
+Open Remix online editor, remove the existing Ballot code, copy and paste the code given in ArmxCoin file of this repo
 
 
 
