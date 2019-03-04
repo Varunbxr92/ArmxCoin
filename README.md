@@ -12,4 +12,8 @@ MetaMask — ethereum client, which will interact with the test network (rop
 wallet.etherum.org — online wallet to check and send tokens
 
 STEP 1: Install Metamask and load free ether in rospten test network
+Open chrome and install metamask by clicking the link. Metamask is an ethereum client for browser
+
+Click on the fox icon that will appear on the right hand side top corner of the browser and follow the steps in the infographic to load free ether. Ether is the cyrptocurrency for ethereum platform.
+
 
