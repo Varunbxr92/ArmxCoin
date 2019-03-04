@@ -25,6 +25,11 @@ ex: "0xd5105520Edd8Bc3AFC47cA242B0d983F7F6349d0". Keep the address handy it will
 
 This is the main account address. At this point the address will have 1 ether. If you don’t get an ether, post your address in the comments section. I will transfer 1 ether to you. Ether is needed for deploying the code into test network.
 
+STEP 2: Create a custom currency and deploy it to Kocan Test network
+
+The smart contract for creating custom token is written in solidity.
+Open Remix online editor, remove the existing Ballot code, copy and paste the below source code.(If you are not able to copy, click the “view raw” at bottom right corner of the code snippet)
+
 
 
 
